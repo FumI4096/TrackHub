@@ -1,5 +1,5 @@
 # TrackHub 
-A structured mobile platform for reporting lost and found items with AI-powered assistance
+A structured mobile platform for reporting lost and found items with AI-assisted image validator
 
 ## 🛠️ Tech Stack
 - **Android Studio** - Development environment
@@ -7,7 +7,7 @@ A structured mobile platform for reporting lost and found items with AI-powered 
 - **SQLite** - Local database for data storage
 
 ## 🤖 AI Integration
-- **OpenAI API** - Intelligent chatbot for user assistance and item inquiries
+- **OpenAI API** - Chatbot for providing guidelines among users for using the app
 - **Clarifai API** - Image validation and recognition for uploaded item photos
 
 ## 🔌 APIs Used
