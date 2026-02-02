@@ -1,18 +1,24 @@
-# TrackHub
-A structured mobile platform for reporting lost and found items
+# TrackHub 
+A structured mobile platform for reporting lost and found items with AI-powered assistance
 
-## Built with
-- Android Studio
-- Java
-- SQLite
+## 🛠️ Tech Stack
+- **Android Studio** - Development environment
+- **Java** - Core programming language
+- **SQLite** - Local database for data storage
 
-## APIs
-- None
+## 🤖 AI Integration
+- **OpenAI API** - Intelligent chatbot for user assistance and item inquiries
+- **Clarifai API** - Image validation and recognition for uploaded item photos
 
-## Contributing
-If there are further enhancements, suggestions, or improvements. Please fork the repository and create a pull request. For specification, you can simply put a tag name "Enhancement: _text here_". The following section served as the guidance 
-and the procedures upon improvising updates for this project. Your comments are deeply appreciated! 
+## 🔌 APIs Used
+- OpenAI - Conversational AI chatbot functionality
+- Clarifai - Image classification and validation
+
+## 🤝 Contributing
+Contributions are welcome! To contribute:
+
 1. Fork this repository
-2. Create a Feature Branch: ```git checkout -b feature/featTrackHub```
-3. Push to the Branch: ```git push origin feature/featTrackhub```
-4. Open a Pull Request
+2. Create a feature branch: `git checkout -b feature/featTrackHub`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/featTrackHub`
+5. Open a Pull Request
